@@ -2,18 +2,18 @@
 class: bottom, left
 background-image: url(images/g.png)
 
-<h2 class="title_headings_sml">COSC330/530 - Parallel and Distributed Computing</h2>
+<h2 class="title_headings_sml">COURSE - Parallel and Distributed Computing</h2>
 
 <h1 class="title_headings_sml"> Lecture 2 - Processes in Unix </h1>
 
-<h3 class="title_headings_sml"> Dr. Mitchell Welch </h3>
+
 
 ---
 ## Reading
 * Chapter 1, 7 and start chapter 8 from **Advanced Programming in the UNIX environment**
 * **UNIX Programming Tools** - should be mostly revision
 * **Assignment 1** Description
-* **COSC330/530 Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
+* **COURSE Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
 
 ---
 
@@ -593,7 +593,7 @@ int main(void){
 ```
 ./example07
 This is process 19518 with parent 22381
-[turing cosc330] $ This is process 19523 with parent 1
+[turing CZ120] $ This is process 19523 with parent 1
 This is process 19521 with parent 1
 This is process 19522 with parent 1
 
@@ -640,12 +640,12 @@ int main(void){
 
 
 ```
-turing cosc330] $ ./example07
+turing CZ120] $ ./example07
 This is process 6039 with parent 22381
 This is process 6043 with parent 6039
 This is process 6042 with parent 6039
 This is process 6044 with parent 6039
-[turing cosc330] $ 
+[turing CZ120] $ 
 ```
 
 ---
@@ -698,6 +698,6 @@ class: middle, center
 * Chapter 1, 7 and start chapter 8 from **Advanced Programming in the UNIX environment**
 * **UNIX Programming Tools** - should be mostly revision
 * **Assignment 1** Description
-* **COSC330/530 Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
+* **COURSE Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
 
 ---
