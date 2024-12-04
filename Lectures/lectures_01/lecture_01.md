@@ -2,11 +2,11 @@
 class: bottom, left
 background-image: url(images/g.png)
 
-<h2 class="title_headings_sml">COSC330/530 - Parallel and Distributed Computing</h2>
+<h2 class="title_headings_sml">XXX - Parallel and Distributed Computing</h2>
 
 <h1 class="title_headings_sml"> Lecture 1 - Introduction </h1>
 
-<h3 class="title_headings_sml"> Dr. Mitchell Welch </h3>
+
 
 ---
 
@@ -14,13 +14,13 @@ background-image: url(images/g.png)
 * Chapter 1, 7 and start chapter 8 from **Advanced Programming in the UNIX environment**
 * **UNIX Programming Tools** - should be mostly revision
 * **Assignment 1** Description
-* **COSC330/530 Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
+* **XXX Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
 
 ---
 
 ##Summary
 
-* Welcome to COSC330/530
+* Welcome to XXX
 * House-Keeping
 * Concurrency and Parallelism
 * Resources and Machines
@@ -29,7 +29,7 @@ background-image: url(images/g.png)
 
 ---
 
-## Welcome to COSC330/530
+## Welcome to XXX
 * This course will introduce concurrent, distributed and parallel programming approaches
 * The course will provide practical experience in concurrent programming paradigms
 * The emphasis will be on
@@ -39,7 +39,7 @@ background-image: url(images/g.png)
 
 ---
 
-## Welcome to COSC330/530
+## Welcome to XXX
 
 * Through this course you will learn how do develop high-performance applications
 * You will be prepared to write software capable of running on high-performance computing systems
@@ -87,7 +87,7 @@ background-image: url(images/g.png)
 ---
 
 ## House-Keeping
-* Questions about your personal issue/progression/studies in COSC330/530 should be communicated by email
+* Questions about your personal issue/progression/studies in XXX should be communicated by email
 * The subject line of you email should be in the form: *Student Number, First Name Last Name - Subject*
 * For example: **222211113333, John Smith - Extension on Assignment 2**
 * Sample email:
@@ -516,7 +516,7 @@ ability to set up references to use the new memory space)
 
 ## Summary
 
-* Welcome to COSC330/530
+* Welcome to XXX
 * House-Keeping
 * Concurrency and Parallelism
 * Resources and Machines
@@ -543,6 +543,6 @@ class: middle, center
 * Chapter 1, 7 and start chapter 8 from **Advanced Programming in the UNIX environment**
 * **UNIX Programming Tools** - should be mostly revision
 * **Assignment 1** Description
-* **COSC330/530 Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
+* **XXX Unit Information and Assessment Overview** - Pay Special Attention to the Assessment and Study Plan
 
 ---
